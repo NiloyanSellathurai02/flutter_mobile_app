@@ -11,7 +11,7 @@ void main() {
               Color.fromARGB(255, 45, 7, 98)
             ]),
           ),
-          child: const Center(
+          child: const  Center(
             child: Text('Welcome!'),
           ),
         ),
